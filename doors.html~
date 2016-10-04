@@ -39,7 +39,7 @@
 	document.getElementById("rightDoorStatus").innerHTML = "";
 	document.getElementById("leftDoorStatus").innerHTML = "";
         document.getElementById("resetDoors").disabled = true;
-        document.getElementById("rightDoor").disabled = true;
+        document.getElementById("RightDoors").disabled = true;
 	alert("Everything reset!");
       }
     </script>
